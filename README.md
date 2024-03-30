@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ch-nur
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science Fundamentals with Python and SQL Specialization on Coursera 
+
